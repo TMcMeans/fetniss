@@ -8,7 +8,7 @@ This project is part of the Front End Engineering Program at the Turing School o
 
 ## Contributors and roles
 
-### Jamie and Mike - Co-lead Designers
+#### Jamie and Mike - Co-lead Designers
 
 #### Tanjie, Ashton & Sara - Co-lead Developers
 
