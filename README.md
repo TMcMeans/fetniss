@@ -10,10 +10,16 @@ This project is part of the Front End Engineering Program at the Turing School o
 
 ### Jamie and Mike - Co-lead Designers
 
-### Tanjie, Ashton & Sara - Co-lead Developers
+#### Tanjie, Ashton & Sara - Co-lead Developers
 
 ## Technologies and Resources Used
  HTML / CSS
 
 ## Design and Comps (Wire-frame, Application Screen shots)
+
+#### Wire-frame
+<img width="815" alt="screen shot 2018-12-10 at 1 32 04 pm" src="https://user-images.githubusercontent.com/39168394/49759952-68427780-fc80-11e8-9e06-4316a86a2a78.png">
+<img width="288" alt="screen shot 2018-12-10 at 1 32 22 pm" src="https://user-images.githubusercontent.com/39168394/49759956-6a0c3b00-fc80-11e8-87c4-05b9dde1e82c.png">
+
+#### Static Comp
 
