@@ -22,4 +22,5 @@ This project is part of the Front End Engineering Program at the Turing School o
 <img width="288" alt="screen shot 2018-12-10 at 1 32 22 pm" src="https://user-images.githubusercontent.com/39168394/49759956-6a0c3b00-fc80-11e8-87c4-05b9dde1e82c.png">
 
 #### Static Comp -- (tine only for desktop)
-<img width="815" alt="screen shot 2018-12-10 at 1 32 04 pm" src="https://user-images.githubusercontent.com/39168394/49765711-887a3280-fc90-11e8-86fe-dfd6cab7865f.png">
+![screen shot 2018-12-10 at 3 29 03 pm](https://user-images.githubusercontent.com/39168394/49765806-c8411a00-fc90-11e8-9f14-b56956425bef.png)
+
