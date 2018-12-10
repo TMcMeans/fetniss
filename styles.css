@@ -6,28 +6,45 @@ header {
   height: 313px;
   background: #561f37;
   border-radius: 0px 0px 20px 20px;
+  padding-right: 50px;
+  padding-left: 50px;
 }
 
 nav {
   display: flex;
-  /* /* flex-direction: row; */
-  justify-content: space-around;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  padding: 10px;
 }
 
-a {
-  width: 486px;
-  height: 51px;
+ul {
+  width: 50%;
   font-family: 'Open Sans Condensed';
   font-style: normal;
   font-weight: bold;
   line-height: normal;
   font-size: 37px;
   color: #eeeeee;
+  display: flex;
+  flex-direction: row;
+  text-decoration: none;
+  justify-content: space-evenly;
+}
+
+li {
+  list-style-type: none;
+  cursor: pointer;
+}
+
+li:hover {
+  color: #74d5db;
 }
 
 .fa-user-circle {
-  background: #eeeeee;
   font-size: 89px;
+  color: white;
 }
 
 .quote-section {
@@ -43,4 +60,24 @@ a {
   line-height: normal;
   font-size: 75px;
   color: #eeeeee;
+  margin: 0;
+}
+
+p {
+  font-family: Quicksand;
+  font-style: normal;
+  font-weight: normal;
+  line-height: normal;
+  font-size: 22px;
+  text-align: center;
+  color: #eeeeee;
+}
+
+button {
+  width: 143px;
+  height: 44px;
+  background: #eeeeee;
+  border-radius: 6px;
+  font-size: 19px;
+  font-size: 'Quicksand';
 }
