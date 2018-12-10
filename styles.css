@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+}
+
+header {
+  height: 313px;
+  background: #561f37;
+  border-radius: 0px 0px 20px 20px;
+}
+
+nav {
+  display: flex;
+  /* /* flex-direction: row; */
+  justify-content: space-around;
+}
+
+a {
+  width: 486px;
+  height: 51px;
+  font-family: 'Open Sans Condensed';
+  font-style: normal;
+  font-weight: bold;
+  line-height: normal;
+  font-size: 37px;
+  color: #eeeeee;
+}
+
+.fa-user-circle {
+  background: #eeeeee;
+  font-size: 89px;
+}
+
+.quote-section {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.logo {
+  font-family: 'Open Sans Condensed';
+  font-style: normal;
+  font-weight: bold;
+  line-height: normal;
+  font-size: 75px;
+  color: #eeeeee;
+}
