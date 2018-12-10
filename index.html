@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="eng">
   <head>
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Quicksand" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Quicksand|Roboto" rel="stylesheet">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
     <link rel="stylesheet" href="styles.css">
   </head>
@@ -26,7 +26,7 @@
     </header>
     <main>
       <div class="calendar">
-        <table>
+        <table class="calendar-table">
           <tr>
             <td>1</td>
             <td>2</td>
@@ -39,15 +39,15 @@
           <tr>
             <td>8</td>
             <td>9</td>
-            <td>10</td>
+            <td class="selected">10</td>
             <td>11</td>
             <td>12</td>
-            <td>13</td>
+            <td class="selected">13</td>
             <td>14</td>
           </tr>
           <tr>
             <td>15</td>
-            <td>16</td>
+            <td class="selected">16</td>
             <td>17</td>
             <td>18</td>
             <td>19</td>
@@ -67,7 +67,7 @@
       </div>
       <section>
         <article>
-          <table>
+          <table class="workout-table">
             <th>
               <td>Bench Press</td>
               <td>50 lb</td>
@@ -92,7 +92,7 @@
           </table>
         </article>
         <article>
-          <table>
+          <table class="workout-table">
             <th>
               <td>Leg Press</td>
               <td>100 lb</td>
@@ -119,7 +119,9 @@
       </section>
     </main>
   </body>
-  <!-- <div class="mobile-view">
+
+ <!--  <div class="mobile-view">
+
     <header>
       <i class="fas fa-bars"></i>
       <h1>ElderFit</h1>
