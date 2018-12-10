@@ -88,13 +88,14 @@ main {
   display: grid;
   grid-template-columns: 1fr 1fr;
   height: 60vh;
+  width: 100vw;
   position: absolute;
   top: 250px;
 }
 
 .calendar {
   background-color: white;
-  height: 90%;
+  height: 100%;
   width: 90%;
   margin: 1.5em;
   border-radius: 5%;
@@ -113,6 +114,31 @@ main {
   color: #561F37;
 }
 
+section {
+  margin-top: 10px;
+}
+
 article {
   height: 50%;
+}
+
+.workout-table {
+  background-color: white;
+  height: 95%;
+  width: 90%;
+  margin: 1em;
+  border-radius: 5%;
+}
+
+.workout-table>th {
+  font-family: Roboto;
+  height: 20%;
+}
+
+.workout-table>tr {
+  font-family: Quicksand;
+}
+
+hr {
+  color: #74D5DB;
 }
